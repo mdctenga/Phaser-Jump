@@ -237,4 +237,3 @@ _____@__________              |
   };
 
 })(window.Phaser, window.Game, window.Game.Configuration);
-
